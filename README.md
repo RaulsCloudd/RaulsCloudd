@@ -1,4 +1,4 @@
-<h1>Hi, I'm Raul <br/><a href="https://github.com/joshmadakor1">Multi-Cloud Professional</a>, <a href="https://www.linkedin.com/in/joshmadakor/"></a> </h1>
+<h1>Hi, I'm Raul <br/><a href="https://www.linkedin.com/in/raullopez01/">Multi-Cloud Professional</a> </h1>
 
 <h2>👨‍💻 Cloud Projects:</h2>
 
